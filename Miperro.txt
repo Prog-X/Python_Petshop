@@ -1,0 +1,7 @@
+BIENVENIDO A LOS DATOS DE SU PERRO
+
+
+Los datos son: raza:pitbull
+	El nombre es:Rocooou 
+	 pesa: 37kg
+Gracias por utilizar nuestros servicios!
